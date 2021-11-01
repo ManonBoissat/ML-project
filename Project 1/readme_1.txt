@@ -12,7 +12,8 @@ This folder contains:
  1 txt file - instructions  ("readme_1.txt") 
 
 
-For the purpose of evaluation "For_Evaluation" directory should be considered only. For the best performing model is used here to generate the csv file, submitted to the aicrowd platform.
+For the purpose of evaluation "For_Evaluation" directory should be considered only. 
+For the best performing model is used here to generate the csv file, submitted to the aicrowd platform.
 
 For_Evaluation (directory contents)
 	|
