@@ -13,7 +13,9 @@ This folder contains:
 
 
 For the purpose of evaluation "For_Evaluation" directory should be considered only. 
-For the best performing model is used here to generate the csv file, submitted to the aicrowd platform.
+implementation.py contains the implementation for the six regression methods.
+For Higgs-Boson pridictor, the best performing regression model is implemented here (in run.py) to generate the prediction .csv file.
+Do read "readme_2" for the instructions to setup run.py and other instructions. 
 
 For_Evaluation (directory contents)
 	|
@@ -29,10 +31,13 @@ For_Evaluation (directory contents)
 	|
 	|------- project1_ridge.py     (helper)
 	|
-	|------- readme_2.txt            (instructions)
+	|------- readme_2.txt          (instructions)
 
 
-In the "temp" all the implementations of the experiments that were conducted to reach to the "best model" are present in "project1.ipynb" and the remaining files are helper python scripts. 
+"temp" is just for evaluators reference.
+In the "temp" all the implementations of the experiments that were conducted to reach to the "best model" are present. 
+"temp/project1.ipynb" is a notebook showing all the experiments and data visualization.
+The remaining python scripts are helper functions used in "project1.ipynb". 
 
 
 
