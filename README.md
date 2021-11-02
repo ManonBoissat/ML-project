@@ -21,3 +21,6 @@ Categorical Accuracy = 79.4%
 ## AIcrowd Submission ID:
 163493
 
+## Requirement
+Python 3, Numpy
+
